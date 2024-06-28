@@ -39,16 +39,16 @@ h6 {
     font-size: larger;
     color: #303335;
     position: absolute;
-    left: 10.5%;
-    top: 42%;
+    left: 24%;
+    top: 57%;
 }
 
 h1 {
     font-size: larger;
     color: #303335;
     position: absolute;
-    left: 10.5%;
-    top: 54%;
+    left: 24%;
+    top: 77%;
 }
 
 #box{
@@ -111,25 +111,26 @@ h1 {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
+    position: fixed;
 }
 
 #ib1{
-    height: 9%;
-    width: 22%;
+    height: 17%;
+    width: 90%;
     background-color: #B0D9FF;
     position: absolute;
-    right: 72.5%;
-    top: 15.6%;
+    right: 6%;
+    top: 10%;
     border-radius: 50px;
 
 }
 #ib2{
-    height: 9%;
-    width: 22%;
+    height: 17%;
+    width: 90%;
     /* background-color:#B0D9FF ; */
     position: absolute;
-    right: 72.5%;
-    top: 28%;
+    right: 6%;
+    top: 33%;
     border-radius: 50px;
 }
 
@@ -148,15 +149,15 @@ h1 {
 
 #im2{
     position: absolute;
-    left: 7.5%;
-    top: 42.5%;
+    left: 12%;
+    top: 57.5%;
     
 }
 
 #im3{
     position: absolute;
-    left: 7.5%;
-    top: 54.4%;
+    left: 12%;
+    top: 77.4%;
 }
 
 p {
@@ -276,8 +277,8 @@ a {
 
 p7 {
     position: absolute;
-    top: 70%;
-    right: 77%;
+    top: 110%;
+    right: 30%;
     color: #ED8E00;
     font-weight: bolder;
     font-size: larger;
@@ -285,10 +286,10 @@ p7 {
 
 #iim {
     position: absolute;
-    right: 89%;
-    top: 70%;
+    right: 78%;
+    top: 110%;
     max-width: fit-content;
-    height: 4%;
+    height: 8%;
 }
 
 p8 {
